@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mKY6a38u3Jk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\CinemaxWeb\\CinemaxWeb\\CinemaxWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
